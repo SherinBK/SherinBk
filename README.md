@@ -6,10 +6,5 @@
 - ⚡ Fun fact: I love choregraphing dances 💃 and hosting 🎤 
 
 ---
-
-<!--
 # GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SherinBK&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SherinBK&langs_count=5&theme=tokyonight)]()
--->
