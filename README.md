@@ -1,7 +1,7 @@
 # Hi, It's Sherin Benny Here👋
 
 - 🎓 I’m currently a Data Science Student at CIT, Coimbatore.
-- 💁 I’m looking for exciting opportunities.
+- 💁 I’m looking for exciting internship and job opportunities.
 - 📧 Reach me through sherinbennyk@gmail.com 
 - ⚡ Fun fact: I love choregraphing dances 💃 and hosting 🎤 
 
